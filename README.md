@@ -5,6 +5,7 @@
 
 ## Requisitos
 + `Python 3`
++ `NumPy`
 + `VS Code`
 
 ## Instalação
