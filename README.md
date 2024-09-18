@@ -1,7 +1,7 @@
-<h1 align="center">PROJETO INTERDISCIPLINAR</h1>
+<h1 align="center">Estante Encantada - Projeto Interdisciplinar</h1>
 
 
-`"Livraria Virtual"` - Aplicação que simula um sistema de uma livraria. 
+`"Estante Encantada"` - Aplicação que simula um sistema de uma livraria virtual. 
 
 ## Requisitos
 + `Python 3`
